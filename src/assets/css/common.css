@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+button {
+  border: none;
+}
+
+html,
+body,
+body button {
+  font-size: 16px;
+  font-family: "微软雅黑, Helvetica";
+}
+ul, li, ol {
+  list-style: none;
+}
+
+a,
+input,
+button {
+  text-decoration: none;
+  outline: none;
+}
+
+img {
+  display: block;
+}

@@ -8,7 +8,7 @@
 
 ## 命令说明
 
-``` py
+```shel
 # 下载依赖包
 npm i
 # or
@@ -21,7 +21,7 @@ npm run serve
 ## 项目目录
 
 > 大致目录，自己再写
-```py
+```shel
 |-- public
 |-- src
 |   |-- assets                      # 静态资源

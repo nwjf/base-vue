@@ -1,7 +1,10 @@
-export default {
+'use strict'
+module.exports = {
+    publicPath: '',
+    lintOnSave: false,
     devServer: {
-        host: '0.0.0.0',
-        port: '8080',
-        open: true
+        host: '127.0.0.1',
+        port: '3000',
+        disableHostCheck: true,
     }
 }
